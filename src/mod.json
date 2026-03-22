@@ -1,0 +1,9 @@
+{
+      "id": "kaiden.decorgpt",
+        "name": "DecorGPT",
+          "developer": "Kaiden",
+            "version": "1.0.0",
+              "description": "ChatGPT-style auto decorator",
+                "geode": ">=2.0.0"
+                }
+}
